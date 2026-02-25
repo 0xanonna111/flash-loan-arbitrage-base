@@ -1,0 +1,10 @@
+{
+  "name": "flash-loan-arbitrage-base",
+  "version": "1.0.0",
+  "description": "Aave V3 Flash Loan starter kit for Web3 developers",
+  "dependencies": {
+    "@aave/core-v3": "^1.18.0"
+  },
+  "author": "Alex000115",
+  "license": "MIT"
+}
